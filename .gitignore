@@ -1,7 +1,7 @@
-﻿/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
+﻿/Project/Binaries
+/Project/DerivedDataCache
+/Project/Intermediate
+/Project/Saved
 
 # Visual Studio solutions
 /*.sln
