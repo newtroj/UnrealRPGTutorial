@@ -1,0 +1,13 @@
+﻿/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+
+# Visual Studio solutions
+/*.sln
+/*.sdf
+/*.opensdf
+/*.suo
+
+# Xcode Project files
+/*.xcodeproj
